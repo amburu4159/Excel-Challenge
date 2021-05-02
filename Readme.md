@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -22,7 +21,4 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-=======
-This is my Moudule 1 challenge - Excel Crowdfunding 
-Hello there
->>>>>>> 758b3e8d44967f934e5478bb45b6d34c75fd741a
+
